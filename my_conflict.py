@@ -7,7 +7,7 @@ Created on Thu Apr 20 09:37:20 2023
 """
 
 def my_function(a, b):
-    result = a + b
+    result = a - b
     
     return result
 
